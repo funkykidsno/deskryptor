@@ -1,0 +1,2 @@
+# deskryptor
+pierwsze do. hasla
